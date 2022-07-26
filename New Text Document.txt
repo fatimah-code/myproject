@@ -1,1 +1,3 @@
 git remote add origin https://github.com/fatimah-code/myproject.git
+
+my name is fatimah
